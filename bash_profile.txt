@@ -45,3 +45,5 @@ fi
 
 NDK=/cygdrive/C/Android/android-ndk 
 export NDK
+
+ss
